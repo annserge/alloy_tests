@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selfServicePortal.iml" filepath="$PROJECT_DIR$/.idea/modules/selfServicePortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selfServicePortal_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selfServicePortal_main.iml" group="selfServicePortal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selfServicePortal_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selfServicePortal_test.iml" group="selfServicePortal" />
+    </modules>
+  </component>
+</project>
